@@ -1,6 +1,9 @@
 body{
 	color: #e6e2d3;
 	background: #121212;
+	font-family: Arial;
+}
+h1{
 	font-family: "Times New Roman", Georgia;
 }
 a:link{
@@ -9,4 +12,5 @@ a:link{
 a:visited{
 	color: #7f7f7f;
 }
+
 
