@@ -1,4 +1,12 @@
 body{
 	color: #e6e2d3;
 	background: #121212;
+	font-family: "Times New Roman", Georgia;
 }
+a:link{
+	color: #e6e2d3;
+}
+a:visited{
+	color: #7f7f7f;
+}
+
